@@ -1,0 +1,19 @@
+# Processed data files - should not be committed
+data/processed/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Results and logs
+results/
+*.log
+
+# Environment
+.env
+.venv
+venv/
+env/
